@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseralculate",
+        "uuid": 10520891,
+        "checksum": "8t9f5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
